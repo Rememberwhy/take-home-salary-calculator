@@ -36,7 +36,6 @@ The Take-Home Salary Calculator is a Python application designed to help users c
 ## Examples of Interaction 
 
    **Example of Interaction: **
-    Welcome to the Walking Tracker App!
     Select your country:
 
     United States
